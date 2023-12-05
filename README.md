@@ -43,7 +43,7 @@
 
 <br>
 
-![urgain215's github stats](https://github-readme-stats.vercel.app/api?username=urgain215&count_private=true&show_icons=true&theme=default)
+![urgain215's github stats](https://github-readme-stats.vercel.app/api?username=urgain215&count_private=true&show_icons=true&theme=default&rank_icon=github)
 
 <br>
 <br>

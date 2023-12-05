@@ -9,6 +9,9 @@
   <a href="https://twitter.com/7h3bl4ckfly" target="_blank">
     <img align="center" alt="Urgain Nurboo | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
+  <a href="https://twitter.com/7h3bl4ckfly" target="_blank">
+    <img align="center" alt="Urgain Nurboo | Discord" width="41px" src="https://github.com/urgain215/urgain215/assets/tryhackme-red.svg" />
+  </a>
 
  </div>
 

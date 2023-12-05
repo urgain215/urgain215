@@ -47,7 +47,7 @@
 
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urgain215&layout=donut)](https://github.com/urgain215/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urgain215&langs_count=8)
 <br>
 
 <!--

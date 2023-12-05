@@ -1,4 +1,31 @@
-### Hi there 👋
+<div align="center">
+ <h1> Hi, I'm Urgain Nurboo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+</div>
+
+<br>
+
+<div align="center">
+  
+  <a href="https://twitter.com/7h3bl4ckfly" target="_blank">
+    <img align="center" alt="Urgain Nurboo | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  </a>
+
+ </div>
+
+<br>
+
+<div align="center">
+<h3>💻 Final Year CSE Student | NIT Surat </h3>
+</div>
+
+<br>
+
+
+<br>
+
+![urgain215's github stats](https://github-readme-stats.vercel.app/api?username=urgain215&count_private=true&show_icons=true&theme=default)
+
+<br>
 
 <!--
 **urgain215/urgain215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

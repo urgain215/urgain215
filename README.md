@@ -9,9 +9,15 @@
   <a href="https://twitter.com/7h3bl4ckfly" target="_blank">
     <img align="center" alt="Urgain Nurboo | Twitter" width="41px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
   </a>
-  <a href="https://twitter.com/7h3bl4ckfly" target="_blank">
-    <img align="center" alt="Urgain Nurboo | Discord" width="41px" src="https://github.com/urgain215/urgain215/blob/master/assets/tryhackme-red.svg" />
+  
+  <a href="https://tryhackme.com/p/urgain215" target="_blank">
+    <img align="center" alt="Urgain Nurboo | TryHackMe" width="41px" src="https://github.com/urgain215/urgain215/blob/master/assets/tryhackme-red.svg" />
   </a>
+
+ <a href="https://linkedin.com/in/urgain" target="_blank">
+    <img align="center" alt="Urgain Nurboo | LinkedIn" width="41px" src="https://github.com/urgain215/urgain215/blob/master/assets/linkedin.svg" />
+  </a>
+  
 
  </div>
 

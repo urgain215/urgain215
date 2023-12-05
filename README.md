@@ -29,11 +29,25 @@
 
 <br>
 
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 😄 Pronouns: ...
+-->
+- 🌱 I’m currently learning new ways to bypass security defenses
+- 💬 Ask me about security and stuffs
+- 📫 How to reach me: urgainnubu439@gmail.com
+- ⚡ Fun fact: 
 
 <br>
 
 ![urgain215's github stats](https://github-readme-stats.vercel.app/api?username=urgain215&count_private=true&show_icons=true&theme=default)
 
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urgain215&layout=donut)](https://github.com/urgain215/github-readme-stats)
 <br>
 
 <!--

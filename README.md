@@ -39,12 +39,15 @@
 - 🌱 I’m currently learning new ways to bypass security defenses
 - 💬 Ask me about security and stuffs
 - 📫 How to reach me: urgainnubu439@gmail.com
-- ⚡ Fun fact: 
+- 😂 Code Jokester: Why do programmers prefer dark mode? Because light attracts bugs!
+- ⚡ Fun fact: I own a dog and she bites me.
 
 <br>
 
 ![urgain215's github stats](https://github-readme-stats.vercel.app/api?username=urgain215&count_private=true&show_icons=true&theme=default&rank_icon=github)
 
+&nbsp;
+&nbsp;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urgain215&langs_count=8)
 

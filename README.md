@@ -44,10 +44,10 @@
 
 <br>
 
-![urgain215's github stats](https://github-readme-stats.vercel.app/api?username=urgain215&count_private=true&show_icons=true&theme=default&rank_icon=github)
+![urgain215's github stats](https://github-readme-stats.vercel.app/api?username=urgain215&count_private=true&show_icons=true&theme=default&rank_icon=github&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urgain215&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=urgain215&langs_count=10&theme=radical)
 
 <br>
 
